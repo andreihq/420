@@ -1,0 +1,16 @@
+{
+  "name": "420",
+  "version": "1.0.0",
+  "description": "",
+  "main": "420.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.2.9"
+  }
+}
